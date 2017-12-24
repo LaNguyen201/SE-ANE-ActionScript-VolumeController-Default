@@ -1,8 +1,8 @@
-package my.extension.volume
+package lant.extension.volume
 {
 	import flash.events.EventDispatcher;
 	import flash.events.StatusEvent;
-	import my.extension.volume.events.VolumeEvent;	
+	import lant.extension.volume.events.VolumeEvent;	
 
 	public class VolumeController extends EventDispatcher
 	{
